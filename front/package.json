@@ -1,0 +1,38 @@
+{
+  "name": "front",
+  "version": "1.0.0",
+  "description": "2020 blog start",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipadorusa/2020_blog_react.git"
+  },
+  "keywords": [
+    "ipadorusa"
+  ],
+  "author": "ipadorusa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipadorusa/2020_blog_react/issues"
+  },
+  "homepage": "https://github.com/ipadorusa/2020_blog_react#readme",
+  "dependencies": {
+    "antd": "^3.25.3",
+    "next": "^9.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "nodemon": "^2.0.1",
+    "webpack": "^4.41.2"
+  }
+}
