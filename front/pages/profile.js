@@ -1,7 +1,11 @@
 import React from 'react';
 
-const profile = _ => (
-  <div>profile</div>
-);
+const profile = _ => {
+  return (
+    <React.Fragment>
+      <div>profile</div>
+    </React.Fragment>
+  )
+};
 
 export default profile;
