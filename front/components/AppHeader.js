@@ -12,7 +12,6 @@ const Header = () => {
           <Input.Search enterButton style={{ verticalAlign: 'middle' }}/>
         </Menu.Item>
       </Menu>
-      <Link href="/Signup"><a><Button>회원가입</Button></a></Link>
     </header>
   )
 };
